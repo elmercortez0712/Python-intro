@@ -1,0 +1,29 @@
+Algoritmo sin_titulo
+	
+	//ElmerDavidCortezRuiz
+	//
+	
+	definir pago,dia,seman,mes como real;
+	
+	escribir "salario";
+	leer pago;
+	
+	seman=pago*7;
+	mes=seman*4;
+	escribir "el salario es de semanal:",seman, "lp";
+	
+	escribir "el salario es de mensual:",mes, "lp";
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+FinAlgoritmo

@@ -1,0 +1,25 @@
+Algoritmo sin_titulo
+	
+	//ElmerDavidCortezRuiz
+	//202510050037
+	
+	//calcular cuanto gana un empleado diario y mensual si se proporciona su salario anual
+	
+	definir anual,mensual,D,salario como real;
+	
+	escribir "Ingrese el salario anual";
+	leer anual;
+	mensual=anual / 12;
+	D = anual / 312;
+
+	escribir "Salario mensual es de:",mensual,"Lp";
+	escribir "el salario diario es de:",D,"Lp";
+	
+	
+	
+	
+	
+	
+	
+	
+FinAlgoritmo

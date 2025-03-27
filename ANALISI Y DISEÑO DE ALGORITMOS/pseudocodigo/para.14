@@ -1,0 +1,23 @@
+Algoritmo sin_titulo
+	
+	definir edad,anoA,naci como entero
+	
+	escribir "Fecha actual: ";
+	leer anoA;
+	
+	Escribir "Fecha de nacimiento: ";
+	leer naci;
+	
+	edad=anoA-naci;
+	
+	escribir "La edad es de: ",edad;
+	
+	si edad > 21 entonces
+		escribir "eres mayor de edad";
+	SiNo
+		escribir "eres menor de edad";
+	FinSi
+	
+	
+	
+FinAlgoritmo

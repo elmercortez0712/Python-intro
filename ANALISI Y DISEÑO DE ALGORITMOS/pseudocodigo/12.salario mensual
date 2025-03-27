@@ -1,0 +1,28 @@
+Algoritmo sin_titulo
+	
+	//ElmerDavidCortezRuiz
+	//202510050037
+	
+	definir salario,seguro,medico,politica,pago Como Entero;
+	
+	escribir "salario mensual";
+	leer salario;
+	seguro=salario*0.10;
+	
+	medico=salario*0.05;
+	politica=salario*0.05;
+	
+	pago=(seguro)+(medico)+(politica)-(salario);
+	escribir "10% deduccion de seguro social:",seguro,"Lp";
+	
+	escribir "5% deduccion medica:",medico,"Lp";
+
+	escribir "5% deduccion de politica:",politica,"Lp";
+	
+	escribir "el salario total es de:",pago,"Lp";
+	
+	
+	
+	
+	
+FinAlgoritmo
